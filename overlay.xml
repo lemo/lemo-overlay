@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layman>
+    <overlay name="lemo-overlay" status="unofficial" contact="none yet" type="git" src="git://github.com/lemo/lemo-overlay.git">
+        <link>https://github.com/lemo/lemo-overlay</link>
+        <description>A general gentoo overlay with my own ebuild's i need. Feel free to fork, clone, pull and of course merge back ^^</description>
+    </overlay>
+</layman>
+
